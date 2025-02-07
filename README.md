@@ -1,5 +1,7 @@
 # python-huggingface-ai
-Using huggingface transformers
+![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
+
+Using [huggingface](https://huggingface.co/) [transformers](https://huggingface.co/docs/transformers/index)
 
 ## DESCRIPTION
 This is a simple repo of python program that uses huggingface transformers to
