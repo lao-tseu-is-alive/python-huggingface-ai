@@ -4,3 +4,5 @@ pyenv activate python-huggingface-ai
 python -m pip install --upgrade pip
 pip install tensorflow
 pip install transformers
+pip install tf-keras
+pip install --upgrade huggingface_hub

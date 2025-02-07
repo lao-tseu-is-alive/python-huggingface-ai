@@ -1,7 +1,29 @@
 # python-huggingface-ai
 Using huggingface transformers
 
+## DESCRIPTION
+This is a simple repo of python program that uses huggingface transformers to
+perform various task on text.
 
+## NOTES
+
+#### list the local models,sizes, and last accessed time:
+```bash
+  huggingface-cli scan-cache
+```
+#### Offline mode
+Run 🤗 Transformers in a firewalled or [offline environment](https://huggingface.co/docs/transformers/installation#offline-mode)
+with locally cached files by setting the environment variable HF_HUB_OFFLINE to 1.
+
+    export HF_DATASETS_OFFLINE=1 
+    export HF_HUB_OFFLINE=1
+
+
+
+
+
+
+## INSTALLATION
 
 ### 1. Cuda Installation v12.8.0 and cudnn v9.7.1 (needed for tensorflow)
 on Ubuntu 24.04
@@ -33,3 +55,4 @@ pip install tensorflow
 ```bash
 pip install transformers
 ```
+
