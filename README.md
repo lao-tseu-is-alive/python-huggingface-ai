@@ -4,8 +4,8 @@
 Using [huggingface](https://huggingface.co/) [transformers](https://huggingface.co/docs/transformers/index)
 
 ## DESCRIPTION
-This is a simple repo of python program that uses huggingface transformers to
-perform various task on text.
+This is a repo of python programs that uses huggingface transformers to
+perform various AI task on text.
 
 ## NOTES
 
