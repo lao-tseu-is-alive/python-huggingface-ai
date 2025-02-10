@@ -6,3 +6,7 @@ pip install tensorflow
 pip install transformers
 pip install tf-keras
 pip install --upgrade huggingface_hub
+pip install duckduckgo-search
+pip install langchain
+pip install langchain-community
+pip install smolagents
