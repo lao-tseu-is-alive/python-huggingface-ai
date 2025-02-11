@@ -10,3 +10,4 @@ pip install duckduckgo-search
 pip install langchain
 pip install langchain-community
 pip install smolagents
+pip install 'smolagents[transformers]'
