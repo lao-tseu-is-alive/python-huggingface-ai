@@ -11,3 +11,4 @@ pip install langchain
 pip install langchain-community
 pip install smolagents
 pip install 'smolagents[transformers]'
+pip install litellm
